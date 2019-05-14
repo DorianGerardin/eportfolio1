@@ -152,7 +152,6 @@ div.description {
 
 .imageCarteMentale:hover {
   transform: scale(1,2);
-  transition: transform(0.5s);
   height: 400px;
   width: 1200px;
 }
@@ -166,7 +165,6 @@ div.description {
 
 .imageNuageMot:hover {
   transform: scale(1,2);
-  transition: transform(0.5s);
   height: 300px;
   width: 900px;
 }
@@ -243,7 +241,6 @@ div.description{
 
 .imageCarteMentale:hover {
   transform: scale(1,2);
-  transition: transform(0.5s);
   height: 150px;
   width: 300px;
 }
@@ -257,7 +254,6 @@ div.description{
 
 .imageNuageMot:hover {
   transform: scale(1,2);
-  transition: transform(0.5s);
   height: 150px;
   width: 300px;
 }
