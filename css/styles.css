@@ -175,16 +175,10 @@ div.description {
   margin-top: 50px !important;
 }
 
-.carousel {
-  margin-top: 50px;
-  width: 40%;
-  margin-right: auto;
-  margin-left: auto;
+.imageSpace {
+  height: 536px;
 }
 
-.imageCarousel {
-  height:95%;
-}
 
 .imagesProjets {
   padding-right: 0px !important;
@@ -268,12 +262,10 @@ div.description{
   width: 300px;
 }
 
-.carousel {
-  width: 100%;
-}
+
 
 .imageSpace {
-  height:1300px;
+  height:1644px;
 }
 
 .imagesProjets{
