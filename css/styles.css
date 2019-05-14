@@ -280,13 +280,11 @@ div.description{
 }
  
 .imageGameJam{
-  width: 70% !important;
+  width: 100% !important;
   height: 500px;
 }
 
-.marginCodeGameJam {
-  padding-left: 85px;
-}
+
 
 }
 
