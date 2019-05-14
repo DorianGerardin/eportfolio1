@@ -210,6 +210,10 @@ div.description {
 
 @media (max-width: 992px) {
 
+.brand-logo {
+	font-size: 21px !important;
+}  
+  
   .avatar {
   margin-top: 0px;
 }
