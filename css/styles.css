@@ -1,0 +1,294 @@
+.body-bg {
+  background-repeat: no-repeat;
+  background-image: url(./images/bg4.png); 
+  background-size: cover;
+  background-color: black;
+  height: 1080px;
+}
+
+
+header {
+  min-height: 127px;
+  margin-bottom: 40px;
+}
+
+.header-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background-size: cover;
+  background-color: #242843;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(./images/bg2.jpg);
+  height: 480px;
+}
+
+.brand-logo {
+  font-size: 20px;
+}
+
+
+#wrapper {
+  max-width: 970px;
+}
+.profile-title {
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 8px;
+}
+
+.profile-desc {
+  display: inline-block;
+  color: #848484;
+  margin-bottom: 8px;
+}
+
+.social-icons li {
+  display: inline-block;
+  padding: 0px 9px;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+
+.info ul {
+  display: inline-block;
+  text-align: left;
+}
+
+h1 {
+  font-size: 42px;
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: 24px;
+  color:white;
+}
+
+h2.center {  
+  margin-top: 0px;
+}
+
+.reseauxSociaux {
+  padding: 10px;
+}
+
+.interests > div {
+  padding: 0px 5px;
+}
+
+.titreInterest {
+  margin-top: 20px !important;
+}
+
+
+.cardPresentation {
+  padding: 0px !important;
+}
+
+.cardMentale {
+  padding: 0px !important;
+  width: 100% !important;
+  margin-top: 0px !important;
+}
+
+
+.cardNoMargin {
+  margin: 0px;
+}
+
+.parPresentation {
+  margin: 0px;
+}
+
+p {
+  text-align: justify;
+  
+}
+
+div.description {
+  padding-top: 70px !important
+}
+
+
+.parallax-container {
+  height:600px;
+}
+
+.imageForet {
+  height: 400px;
+}
+
+.material-icons {
+  color: green;
+}
+
+.boutonBas {
+  margin-left: 50%;
+}
+
+.button-socicon {
+  font-size: 30px;
+  padding: 15px;
+}
+
+.imageCarteMentale{
+  height: 300px;
+  width: 650px;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+
+.imageCarteMentale:hover {
+  transform: scale(1,2);
+  transition: transform(0.5s);
+  height: 400px;
+  width: 1200px;
+}
+
+.imageNuageMot{
+  height: 300px;
+  width: 650px;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+
+.imageNuageMot:hover {
+  transform: scale(1,2);
+  transition: transform(0.5s);
+  height: 300px;
+  width: 900px;
+}
+
+.titreProjet{
+  margin-top: 50px !important;
+}
+
+.carousel {
+  margin-top: 50px;
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.imageCarousel {
+  height:95%;
+}
+
+.imagesProjets {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  padding-bottom: 0px !important;
+  margin-top: 0px !important;
+}
+
+.imageStationMeteo{
+  height:300px !important;
+  width: 100%;
+}
+
+.imageGameJam{
+  height:300px !important;
+  width: 100% !important;
+}
+
+.imageDominion{
+  height:300px !important;
+  width: 100% !important;
+}
+
+
+@media (max-width: 992px) {
+
+  .avatar {
+  margin-top: 0px;
+}
+
+div.description{
+  margin-top: 20px !important;
+  padding-top: 0px !important;
+}
+
+  .interests {
+    padding-top: 0px;
+  }
+  .skills {
+    padding: 0px;
+    margin-top: 0px;
+  }
+
+  .technicalSkill {
+    margin-top: 20px;
+  }
+
+  .imageCode {
+    height: 1000px;
+  }
+
+  .imageCarteMentale{
+  height: 150px;
+  width: 150px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.imageCarteMentale:hover {
+  transform: scale(1,2);
+  transition: transform(0.5s);
+  height: 150px;
+  width: 300px;
+}
+
+  .imageNuageMot{
+  height: 150px;
+  width: 150px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.imageNuageMot:hover {
+  transform: scale(1,2);
+  transition: transform(0.5s);
+  height: 150px;
+  width: 300px;
+}
+
+.carousel {
+  width: 100%;
+}
+
+.imageSpace {
+  height:1300px;
+}
+
+.imagesProjets{
+  margin-top: 0px !important;
+}
+ 
+.imageGameJam{
+  width: 70% !important;
+  height: 500px;
+}
+
+.marginCodeGameJam {
+  padding-left: 85px;
+}
+
+}
+
+
+
+
+
+
+

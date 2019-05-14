@@ -1,0 +1,38 @@
+.bodyBG {
+	background-repeat: no-repeat;
+  	background-image: url(../images/dominionBG.jpg); 
+}
+
+
+.paragraphe {
+	margin-top: 100px;
+}
+
+.accueilBouton {
+	margin-top: 60px;
+}
+
+.imageDominion {
+	width: 70%;
+	height: 70%;
+}
+
+
+
+
+
+@media (max-width: 992px) {
+
+h1 {
+	font-size: 30px;
+}
+
+
+.paragraphe {
+	margin-top: 0px;
+}
+
+
+
+}
+

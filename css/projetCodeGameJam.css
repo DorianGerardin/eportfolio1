@@ -1,0 +1,51 @@
+.bodyBG {
+	background-repeat: no-repeat;
+  	background-image: url(../images/forestBG.jpg); 
+}
+
+.slider {
+	margin-top: 100px;
+}
+
+.bannerGameJam {
+	width: 100%;
+}
+
+
+.paragraphe {
+	margin-top: 100px;
+}
+
+.accueilBouton {
+	margin-top: 300px;
+}
+
+.image1 {
+	height: 100%;
+	width: 40% !important;
+}
+
+
+@media (max-width: 992px) {
+
+h1 {
+	font-size: 30px;
+}
+
+.slider {
+	margin-top: 0px;
+}
+
+.paragraphe {
+	margin-top: 0px;
+	text-align: center;
+	width: 100%;
+}
+
+.row{
+	text-align: center;
+}
+
+
+}
+

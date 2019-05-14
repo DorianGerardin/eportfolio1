@@ -1,0 +1,67 @@
+.bodyBG {
+	background-repeat: no-repeat;
+  	background-image: url(../images/pythonBG.png); 
+}
+
+.slider {
+	margin-top: 100px;
+}
+
+.imagesCarousel {
+  width: 200px;
+  height: 200px;
+}
+
+.materialboxed.active {
+	width: 900px !important;
+	left: -146.025px !important;
+}
+
+.paragraphe {
+	margin-top: 100px;
+}
+
+
+
+@media (max-width: 992px) {
+
+h1 {
+	font-size: 30px;
+}
+
+.slider {
+	margin-top: 0px;
+}
+
+.paragraphe {
+	margin-top: 0px;
+}
+
+
+.materialboxed.active.maquetteStation {
+	width: 404.1px!important;
+	left: -115.05px !important;
+	
+}
+.materialboxed.active.maquetteArduino {
+	width: 404.1px!important;
+	left: -115.05px !important;
+	
+}
+.materialboxed.active.project_step_image {
+	width: 404.1px!important;
+	left: -115.05px !important;
+	
+}
+.materialboxed.active.projetTkinter {
+	width: 404.1px!important;
+	left: -115.05px !important;
+	
+}
+.materialboxed.active.stationMeteo {
+	width: 404.1px!important;
+	left: -115.05px !important;
+	
+}
+}
+
