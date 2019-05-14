@@ -284,7 +284,10 @@ div.description{
   height: 500px;
 }
 
-
+.marginCodeGameJam {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 }
 
